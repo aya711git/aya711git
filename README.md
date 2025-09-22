@@ -35,6 +35,6 @@ I'm an enthusiastic team player and self-learner, always eager to train others, 
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “Twenty years from now you will be more disappointed by the things you didn’t do than by the ones you did do.” – Mark Twain
 
 Thanks for visiting my profile!
