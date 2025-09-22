@@ -20,7 +20,6 @@ Welcome to my GitHub! I'm a passionate developer and researcher with a strong ba
 - **Tools**: AI tools, collaborative platforms
 - **Design**: UI/UX, logo creation
   
-- <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
