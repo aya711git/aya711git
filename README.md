@@ -37,7 +37,8 @@ I'm an enthusiastic team player and self-learner, always eager to train others, 
 ## 📇 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aya-khaled-5a1795205)
-
+  
+- Email: [aya.khuris@gmail.com](mailto:aya.khuris@gmail.com)
 ---
 
 > “Twenty years from now you will be more disappointed by the things you didn’t do than by the ones you did do.” – Mark Twain
