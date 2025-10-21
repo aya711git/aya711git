@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate developer and researcher with a strong ba
 
 ## 🧠 What I Do
 
-- 🚀 **AI & Machine Learning:** Building intelligent solutions using Python, C#, and more.  
+- 🚀 **AI & Machine Learning:** Building intelligent solutions using Python, and more.  
 - 🌐 **GNN & Reinforcement Learning:** Exploring graph-based models and RL techniques.  
 - 🖼️ **Image Processing:** Designing algorithms to extract insights from visual data.  
 - 🎨 **UI/UX & Logo Design:** Crafting intuitive interfaces and creative branding.
