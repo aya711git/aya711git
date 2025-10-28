@@ -2,7 +2,7 @@
 
 **Developer | Researcher | Master Student**
 
-Welcome to my GitHub! I'm a passionate developer and researcher with a strong background in AI, machine learning, reinforcement learning, graph neural networks (GNN), and image processing. Currently pursuing my master's degree, I thrive on learning new things and sharing knowledge with others.
+Welcome to my GitHub! I'm a passionate developer and researcher with a background in AI, machine learning, reinforcement learning, graph neural networks (GNN), and image processing. Currently pursuing my master's degree, I thrive on learning new things and sharing knowledge with others.
 
 ## 🧠 What I Do
 
