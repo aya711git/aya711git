@@ -36,7 +36,7 @@ I'm an enthusiastic team player and self-learner, always eager to train others, 
 
 ## 📇 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/aya-khaled-5a1795205)
+- [LinkedIn](https://www.linkedin.com/in/aya-khaled-khuris/)
   
 - Email: [aya.khuris@gmail.com](mailto:aya.khuris@gmail.com)
 ---
